@@ -72,7 +72,7 @@ weather-data-pipeline/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/weather-data-pipeline.git
+git clone https://github.com/felipe-migui2308/weather-data-pipeline.git
 cd weather-data-pipeline
 ```
 
